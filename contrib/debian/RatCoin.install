@@ -1,0 +1,2 @@
+debian/bin/InvestPlusd usr/bin
+src/InvestPlusd usr/lib/InvestPlus

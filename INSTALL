@@ -1,0 +1,9 @@
+Building InvestPlus
+
+See doc/readme-qt.rst for instructions on building InvestPlus QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of InvestPlus.
+
+See doc/build-*.txt for instructions on building InvestPlusd,
+the intended-for-services, no-graphical-interface, reference
+implementation of InvestPlus.

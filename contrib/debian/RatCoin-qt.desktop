@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=InvestPlus
+Comment=InvestPlus P2P Cryptocurrency
+Exec=/usr/bin/InvestPlus-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/InvestPlus;
+Categories=Office;
+Name[en_US]=InvestPlus-qt.desktop
