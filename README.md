@@ -1,107 +1,26 @@
 <h1>Invest Plus Specifications</h1>
 
-<table border="1" width="600">
-	<tr>
-		<td><strong>Name</td>
-		<td>Invest Plus</td>
-	</tr>
-
-	<tr>
-		<td><strong>Ticker</strong></td>
-		<td>IVP</td>
-	</tr>
-
-	<tr>
-		<td><strong>Suply</strong></td>
-		<td>90.000.000.000</td>
-	</tr>
-
-	<tr>
-		<td><strong>Algo</strong></td>
-		<td>Scrypt POW/POS</td>
-	</tr>
-
-	<tr>
-		<td><strong>Annual income</strong></td>
-		<td>13%</td>
-	</tr>
-
-	<tr>
-		<td><strong>Reward per block POW</strong></td>
-		<td>100000</td>
-	</tr>
-
-	<tr>
-		<td><strong>Last block POW</strong></td>
-		<td>10000</td>
-	</tr>
-
-	<tr>
-		<td><strong>Maturity</strong></td>
-		<td>10 blocks</td>
-	</tr>
-
-	<tr>
-		<td><strong>Pre-mine</strong></td>
-		<td>35.000.000.000</td>
-	</tr>
-
-	<tr>
-		<td><strong>Block Time</strong></td>
-		<td>60 secs</td>
-	</tr>
-
-	<tr>
-		<td><strong>P2P port</strong></td>
-		<td>2369</td>
-	</tr>
-
-	<tr>
-		<td><strong>RPC port</strong></td>
-		<td>2368</td>
-	</tr>
-
-	<tr>
-		<td><strong>Data to reach the supply</strong></td>
-		<td>7 years and 2 months ~ 2026-04-13</td>
-	</tr>
-
-	<tr>
-		<td><strong>Daily mining schedule</strong></td>
-		<td><a href="https://pastebin.com/tWVsE4xs" target="_blank" style="color: blue;">see future mining</a></td>
-	</tr>
-
-	<tr>
-		<td><strong>Official Exchange</strong></td>
-		<td><a href="https://bitsahani.com/exchange" target="_blank" style="color: blue;">BitSahani.com</a></td>
-	</tr>
-
-	<tr>
-		<td><strong>Official POS Mining Pool</strong></td>
-		<td><a href="https://gorain.me" target="_blank" style="color: blue;">GoRain.me</a></td>
-	</tr>
-
-	<tr>
-		<td><strong>Official telegram</strong></td>
-		<td><a href="https://t.me/joinchat/D6kttEl-3-wSfQNVxX32Ag" target="_blank" style="color: blue;">IVP Telegram</a></td>
-	</tr>
-
-	<tr>
-		<td><strong>Official twitter</strong></td>
-		<td><a href="https://twitter.com/investplus15" target="_blank" style="color: blue;">IVP Twitter</a></td>
-	</tr>
-
-	<tr>
-		<td><strong>Official website</strong></td>
-		<td><a href="http://investplus.top" target="_blank" style="color: blue;">investplus.top</a></td>
-	</tr>
-
-	<tr>
-		<td><strong>Block explorer</strong></td>
-		<td>under development</td>
-	</tr>
-
-</table>
+| Name                     | Invest Plus                       |
+|--------------------------|-----------------------------------|
+| Ticker                   | IVP                               |
+| Supply                   | 90.000.000.000                    |
+| Algo                     | Scrypt POW/POS                    |
+| Annual income            | 13%                               |
+| Reward per block POW     | 100000                            |
+| Last block POW           | 10000                             |
+| Maturity                 | 10 blocks                         |
+| Pre-mine                 | 35.000.000.000                    |
+| Block Time               | 60 secs                           |
+| P2P port                 | 2369                              |
+| RPC port                 | 2368                              |
+| Data to reach the supply | 7 years and 2 months ~ 2026-04-13 |
+| Daily mining schedule    |<a href="https://pastebin.com/tWVsE4xs" target="_blank" style="color: blue;">see future mining</a>|
+| Official Exchange        |<a href="https://bitsahani.com/exchange" target="_blank" style="color: blue;">BitSahani.com</a> |
+| Official POS Mining Pool |<a href="https://gorain.me" target="_blank" style="color: blue;">GoRain.me</a> |
+| Official telegram        |<a href="https://t.me/joinchat/D6kttEl-3-wSfQNVxX32Ag" target="_blank" style="color: blue;">IVP Telegram</a>|
+| Official twitter         |<a href="https://twitter.com/investplus15" target="_blank" style="color: blue;">IVP Twitter</a>|
+| Official website         |<a href="http://investplus.top" target="_blank" style="color: blue;">investplus.top</a>|
+| Block explorer           |under development|
 
 <p><strong>About pre-mine</strong></p>
 <pre>
