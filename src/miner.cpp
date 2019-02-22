@@ -111,7 +111,7 @@ public:
 CBlock* CreateNewBlock(CWallet* pwallet, bool fProofOfStake, int64_t* pFees)
 {
     // Create new block
-    unique_ptr<CBlock> pblock(new CBlock());
+    auto_ptr<CBlock> pblock(new CBlock()); //Alterações Francis Santana
     if (!pblock.get())
         return NULL;
 
@@ -568,7 +568,7 @@ void StakeMiner(CWallet *pwallet)
         // Create new block
         //
         int64_t nFees;
-        unique_ptr<CBlock> pblock(CreateNewBlock(pwallet, true, &nFees));
+        auto_ptr<CBlock> pblock(CreateNewBlock(pwallet, true, &nFees)); //Alterações Francis Santana
         if (!pblock.get())
             return;
 
